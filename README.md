@@ -4,7 +4,7 @@
 
 The bot will find all the users in the authenticated channel. It will match against any user who's name or channel nickname match their screeps username.
 
-## Create an bot
+## Create a bot
 
 See https://discordpy.readthedocs.io/en/latest/discord.html
 
