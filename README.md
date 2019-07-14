@@ -8,6 +8,8 @@ The bot will find all the users in the authenticated channel. It will match agai
 
 See https://discordpy.readthedocs.io/en/latest/discord.html
 
+Make to sure to allow "Send Messages" permissions.
+
 ## Add the following configs to config.yml
 
 ```yml

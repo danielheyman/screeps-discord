@@ -1,6 +1,6 @@
 {
   "name": "screeps-discord",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "",
   "main": "index.js",
   "screeps_mod": true,
